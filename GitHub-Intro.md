@@ -19,7 +19,7 @@ Gitを使う方法を大別すると2通りある。**長期的には方法1を�
 ## 準備2: GitHub上に実習用リモートレポジトリを準備
 
 1. 以下のリンクをクリック(今回の実習用レポジトリを準備する)
-	- hhttps://classroom.github.com/a/VhYtCvvk
+	- https://classroom.github.com/a/VhYtCvvk
 2. 表示された画面で"Accept this assignment"をクリック。
 3. GitHubに登録したアドレスにメールが届くので”View invitation”をクリックしてGitHubにログイン。
 3. これでGitHub上にリモートレポジトリができる。
