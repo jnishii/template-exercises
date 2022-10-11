@@ -16,14 +16,14 @@
 ## 準備1: 手元のマシンの準備
 Gitを使う方法を大別すると2通りある。**長期的には方法1を使えるようにする** こと。短期的には方法2でもいいが，使い方は各自調べること。
 
-[方法1] コマンド直打ちで使う
+### [方法1] コマンド直打ちで使う**
 
 - Windowsの場合は以下を見てGit Bashを使えるようにすれば，LinuxやMacと同様にターミナル上で操作できる(はず...)。
 	https://qiita.com/shinsumicco/items/a1c799640131ae33c792
 - Mac/Linuxはターミナル上で，以下のURLにある「準備3」を実行しておく。
 	- [GitHubを使う準備](http://bcl.sci.yamaguchi-u.ac.jp/~jun/notebook/git/preparation)
 
-[方法2] GitHub DeskTopをつかう。
+### [方法2] GitHub DeskTopをつかう
 
 - [GitHub DeskTop](https://desktop.github.com/) からダウンロードする。
 - 使い方は各自google先生に教わる。
