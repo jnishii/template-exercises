@@ -77,7 +77,7 @@ GitHub Desktopの使い方はgoogle先生に聞く。
 $ git status  # 追加・更新したファイル一覧表示(省略可)
 $ git add .   # 追加・更新したファイル全てをgitに反映する
 $ git commit -m "修正点を簡単にかく"  # 更新情報をローカルレポジトリに反映
-$ git push origin master # 更新情報をローカルレポジトリにGitHubに反映
+$ git push origin main # 更新情報をローカルレポジトリにGitHubに反映
 ```
 
 その他，自宅のパソコン等にGitHubのレポジトリをクローン(ダウンロード)する方法等の詳細は以下を参照のこと。
