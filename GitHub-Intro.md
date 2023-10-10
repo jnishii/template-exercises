@@ -16,28 +16,36 @@
 ## 準備1: 手元のマシンの準備
 Gitを使う方法を大別すると2通りある。**長期的には方法1を使えるようにする** こと。短期的には方法2でもいいが，使い方は各自調べること。
 
-[方法1] コマンド直打ちで使う
+### [方法1] コマンド直打ちで使う**
 
 - Windowsの場合は以下を見てGit Bashを使えるようにすれば，LinuxやMacと同様にターミナル上で操作できる(はず...)。
 	https://qiita.com/shinsumicco/items/a1c799640131ae33c792
 - Mac/Linuxはターミナル上で，以下のURLにある「準備3」を実行しておく。
 	- [GitHubを使う準備](http://bcl.sci.yamaguchi-u.ac.jp/~jun/notebook/git/preparation)
 
-[方法2] GitHub DeskTopをつかう。
+### [方法2] GitHub DeskTopをつかう
 
 - [GitHub DeskTop](https://desktop.github.com/) からダウンロードする。
 - 使い方は各自google先生に教わる。
 
-## 準備2: GitHub上に実習用リモートレポジトリを準備
+## 準備2: 公開鍵認証設定
 
-1. 以下のリンクをクリック(プレ配属用リポジトリを準備する)
-	- [プレ配属用リンク](https://classroom.github.com/a/xhjEYsAt)
+[研究室のメモページ](https://github.com/bcl-group/memo/wiki)のGitHubのコーナーを見る
+
+1. 「GitHub の公開鍵認証設定」の内容を実行
+2. 「GitHub のプロキシ設定」も見ておく
+
+https://github.com/bcl-group/memo/wiki
+
+## 準備3: GitHub上に実習用リモートレポジトリを準備
+
+1. Slack等で連絡があったリンクをクリック(プレ配属用リポジトリを準備する)
 2. 表示された画面で"Accept this assignment"をクリック。
 3. GitHubに登録したアドレスにメールが届くので”View invitation”をクリックしてGitHubにログイン。
 3. これでGitHub上にリモートレポジトリができる。
 
 
-## 準備3: ローカルレポジトリの内容をリモートレポジトリに反映
+## 準備4: ローカルレポジトリの内容をリモートレポジトリに反映
 
 ここからの作業は，前述の「準備1」の2つ方法のどちらを使うかで方法が異なる。
 
