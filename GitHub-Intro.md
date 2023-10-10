@@ -1,9 +1,10 @@
 # プログラミング環境の準備
 
-エディタは好きなのを使えばよいが，最近世界中でよく使われているのはVisual Studio Codeは以下から取得する。
+エディタは好きなのを使えばよい。最近よく使われているVisual Studio Codeは以下から取得する。
 
 [Visual Studio Code](https://code.visualstudio.com/download)
 - Windows, Mac, Linux いずれでも使える
+- 研究室のLinuxマシンではデフォルトで使える(多分)
 
 
 # GitHubの準備
@@ -14,20 +15,16 @@
 - [Gitの基本用語](http://bcl.sci.yamaguchi-u.ac.jp/~jun/notebook/git/intro)
 
 ## 準備1: 手元のマシンの準備
-Gitを使う方法を大別すると2通りある。**長期的には方法1を使えるようにする** こと。短期的には方法2でもいいが，使い方は各自調べること。
 
-### [方法1] コマンド直打ちで使う**
-
-- Windowsの場合は以下を見てGit Bashを使えるようにすれば，LinuxやMacと同様にターミナル上で操作できる(はず...)。
-	https://qiita.com/shinsumicco/items/a1c799640131ae33c792
+- Windowsの場合は以下を見て[Git Bash](https://gitforwindows.org)を使えるようにすれば，LinuxやMacと同様にターミナル上で操作できる。
 - Mac/Linuxはターミナル上で，以下のURLにある「準備3」を実行しておく。
 	- [GitHubを使う準備](http://bcl.sci.yamaguchi-u.ac.jp/~jun/notebook/git/preparation)
 
-### [方法2] GitHub DeskTopをつかう
+<!-- ### [方法2] GitHub DeskTopをつかう
 
 - [GitHub DeskTop](https://desktop.github.com/) からダウンロードする。
 - 使い方は各自google先生に教わる。
-
+ -->
 ## 準備2: 公開鍵認証設定
 
 [研究室のメモページ](https://github.com/bcl-group/memo/wiki)のGitHubのコーナーを見る
@@ -35,7 +32,6 @@ Gitを使う方法を大別すると2通りある。**長期的には方法1を�
 1. 「GitHub の公開鍵認証設定」の内容を実行
 2. 「GitHub のプロキシ設定」も見ておく
 
-https://github.com/bcl-group/memo/wiki
 
 ## 準備3: GitHub上に実習用リモートレポジトリを準備
 
@@ -65,7 +61,7 @@ $ git push -u origin main
 - このあたりのコマンドの解説は以下にもある。
 	- [リポジトリの作成](http://bcl.sci.yamaguchi-u.ac.jp/~jun/notebook/git/init)
 
-### 方法2: GitHub Desktopで
+<!-- ### 方法2: GitHub Desktopで
 
 GitHub Desktopの使い方はgoogle先生に聞く。
 
@@ -73,7 +69,7 @@ GitHub Desktopの使い方はgoogle先生に聞く。
 2. ローカルレポジトリの内容をリモートレポジトリにpushする。
 
 ブラウザでGitHubのページを見て，リモートレポジトリにファイルがアップロードがされていれば成功。
-
+ -->
 
 ## 更新情報のアップロードをする
 
