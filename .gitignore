@@ -1,0 +1,24 @@
+# ignore latex build files
+.texpadtmp
+*-md.*
+*.aux
+*.bbl
+*.bcf
+*.blg
+*-blx.bib
+*.dvi
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg*
+*.ind
+*.ist
+*.log
+*.lot
+*.out
+*.synctex.gz
+*.toc
+# ignore temporary files
+*~
+.DS_Store
+out/
