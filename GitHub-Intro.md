@@ -27,6 +27,7 @@
 - [GitHub DeskTop](https://desktop.github.com/) からダウンロードする。
 - 使い方は各自google先生に教わる。
  -->
+
 ### 準備2: 公開鍵認証設定
 
 [研究室のメモページ](https://github.com/bcl-group/memo/wiki)のGitHubのコーナーを見る
@@ -35,7 +36,7 @@
 2. 「GitHub のプロキシ設定」も見ておく
 
 
-### 準備3: GitHub上に実習用リモートレポジトリを準備
+### 準備3: GitHub上に実習用リモートリポジトリを準備
 
 1. Slack等で連絡があったリンクをクリック(プレ配属用リポジトリを準備する)
 2. 表示された画面で"Accept this assignment"をクリック。
