@@ -12,6 +12,7 @@
 ## GitHubの準備
 
 ### 準備0: GitHubの基本用語
+
 以下の「Gitの基本用語」のページを読む
 
 - [Gitの基本用語](http://bcl.sci.yamaguchi-u.ac.jp/~jun/notebook/git/intro)
